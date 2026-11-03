@@ -1,0 +1,8 @@
+payload/*.bundle
+payload/catalog.json
+runtime/python/
+runtime/.venv/
+__pycache__/
+_watcher_safe.log
+_patched_pid.txt
+*.zip
